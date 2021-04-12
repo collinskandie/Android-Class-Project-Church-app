@@ -5,4 +5,7 @@
     <string name="navigation_drawer_close">Close navigation Drawer</string>
     <string name="welcome_message">Join Us this and every sunday for a spirit lifting service</string>
     <string name="image_description">Choices</string>
+    <string name="list_image">list image</string>
+    <string name="main_title">Main Title</string>
+    <string name="description">description</string>
 </resources>
